@@ -31,6 +31,4 @@ Under light-exposed spaceflight, Arabidopsis attenuates ABA-mediated stress sign
 
 
 
-[nasaposter.pdf](https://github.com/user-attachments/files/31727339/nasaposter.pdf)
-
 
