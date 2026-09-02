@@ -23,3 +23,14 @@ Under light-exposed spaceflight, Arabidopsis attenuates ABA-mediated stress sign
 
 ###Keywords: Arabidopsis thaliana, microgravity, photomorphogenesis, transcriptomics, differential gene expression
 
+
+
+
+
+
+
+
+
+[nasaposter.pdf](https://github.com/user-attachments/files/31727339/nasaposter.pdf)
+
+
